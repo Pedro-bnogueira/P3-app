@@ -19,7 +19,7 @@ npm install
 Para que o app funcione em sua totalidade é necessário tambêm fazer a importação do dump do banco de dados localizado em P3-BD em algum workspace mysql.
 Obs: nessa etapa é importante configurar os models do backend de acordo com suas configurações de banco de dados local, para isso entre nos arquivos models de P3-back/src/models e em cada arquivo ajustar de acordo com usuário e senha local do mysql no Sequelize.
 
-Para iniciar o projeto deve ser disparado o seguinte comando tenta no front quanto no back:
+Para iniciar o projeto deve ser disparado o seguinte comando tanto no front quanto no back:
 ```
 npm start
 ```
@@ -29,3 +29,10 @@ npm start
 * Pedro Henrique Alves de Araujo Silva
 
 ## Imagens/screenshot
+
+![SCR-20240314-nrcr](P3-prints/SCR-20240314-nrcr.png) <br>
+![SCR-20240314-nrkl](P3-prints/SCR-20240314-nrkl.png) <br>
+![SCR-20240314-nrmp](P3-prints/SCR-20240314-nrmp.png) <br>
+![SCR-20240314-nrpw](P3-prints/SCR-20240314-nrpw.png) <br>
+![SCR-20240314-nrrq](P3-prints/SCR-20240314-nrrq.png) <br>
+![SCR-20240314-nruq](P3-prints/SCR-20240314-nruq.png) <br>
