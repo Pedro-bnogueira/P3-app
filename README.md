@@ -9,8 +9,13 @@ O grupo utilizou as linguagens JavaScript, HTML, CSS e React para o desenvolvime
 package-lock.json
 ```
 ## Passo a passo
-Para o desenvolvimento do projeto foram estudados o funcionamento dos seguintes algoritmos de oredenação:
-
+1. Criação e desenvolvimento de protótipo utilizando a ferramenta Figma
+2. Criação da página de ínicio
+3. Criação da página Notas
+4. Criação da página Finanças
+5. Criação da página Timer
+6. Criação do login, do cadastro e da autenticação
+   
 ## Execução
 Para executar o projeto deve ser instalado localmente o node.js, e com isso ao abrir os arquivos tanto do front quanto do back devem ser instaladas todas as as dependências pelo comando:
 ```
