@@ -21,7 +21,7 @@ Para executar o projeto deve ser instalado localmente o node.js, e com isso ao a
 ```
 npm install
 ```
-Para que o app funcione em sua totalidade é necessário tambêm fazer a importação do dump do banco de dados localizado em P3-BD em algum workspace mysql.
+Para que o app funcione em sua totalidade é necessário também fazer a importação do dump do banco de dados localizado em P3-BD em algum workspace mysql, para isso é necessário que o mysql também esteja instalado.
 Obs: nessa etapa é importante configurar os models do backend de acordo com suas configurações de banco de dados local, para isso entre nos arquivos models de P3-back/src/models e em cada arquivo ajustar de acordo com usuário e senha local do mysql no Sequelize.
 
 Para iniciar o projeto deve ser disparado o seguinte comando tanto no front quanto no back:
